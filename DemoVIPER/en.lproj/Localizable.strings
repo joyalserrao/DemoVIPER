@@ -1,0 +1,15 @@
+/* 
+  Localizable.string.strings
+  DemoVIPER
+
+  Created by JOYAL SERRAO on 07/12/19.
+  Copyright © 2019 Joyal Serrao. All rights reserved.
+*/
+
+"Title" = "Title";
+
+"Author" = "Author";
+
+"Description" = "Description";
+
+"Todays News" = "Todays News";
