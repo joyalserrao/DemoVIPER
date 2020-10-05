@@ -114,6 +114,8 @@ class NetworkRequestMain {
                     completion(.failure(.decodingError))
                     print(error)
                 }
+            } else {
+                completion(.failure(.noDataError))
             }
         }.resume()
     }
